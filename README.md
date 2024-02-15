@@ -30,3 +30,17 @@ Implementamos um gráfico de pizza exibindo o valor total de pedidos por país, 
 Desenvolvemos uma tabela detalhada que apresenta informações cruciais para cada empresa, incluindo nome, país, e-mail, telefone, gasto total, entre outros. Adicionamos formatação condicional para destacar informações relevantes.
 
 Esta abordagem combinada proporciona uma análise holística, enriquecendo o dashboard e oferecendo insights significativos aos usuários finais.
+
+### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/RealvsAverage_PowerBi/blob/main/Slide1_.png" width=60%>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/RealvsAverage_PowerBi/blob/main/Slide2_.png" width=60%>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/RealvsAverage_PowerBi/blob/main/Slide3.PNG" width=60%>
+</p>
+
